@@ -1,10 +1,8 @@
 ### Hi there! Welcome to my profile!
 
 
-- 🔭 I’m currently working: 
-  
-  On hobby projects but nothing professional.
-  Check my first [Notes application](https://play.google.com/store/apps/details?id=com.ryo.everynotes) released on Google Play
+- 🔭 I’m currently working on Hobby Projects:
+    - [Everything Notes - Active](https://play.google.com/store/apps/details?id=com.ryo.everynotes) released on Google Play
   
   
 - 🌱 I’m currently learning: 
