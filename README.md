@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there! Welcome to my profile!
 
-<!--
-**Ygor-Elinaldo/Ygor-Elinaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working: 
+  
+  On hobby projects but nothing professional.
+  Check my first [Notes application](https://play.google.com/store/apps/details?id=com.ryo.everynotes) released on Google Play
+  
+  
+- 🌱 I’m currently learning: 
+    - Kotlin
+    - Android SDK
+    - JavaScript with Web Development
+    - C++ and C#
+    
+    
+- 💬 Ask me about:
+    - Android Platform
+    - Linux (Distribuitions like Ubuntu, pop!OS, Fedora and others)
+    - Windows System
+    
+    
+- 📫 How to reach me: 
+    - ygor.elinaldoneresdesouza@gmail.com
+    - +55 66 996923495
+- 😄 Pronouns: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  He/him
+- ⚡ Personal facts: 
+    - Love singing and playing on my piano.
+    - Love talking with another peoples
+    - Always learning about everything!
