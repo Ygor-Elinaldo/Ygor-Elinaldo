@@ -15,13 +15,15 @@
     
 - 💬 Ask me about:
     - Android Platform
-    - Linux (Distribuitions like Ubuntu, pop!OS, Fedora and others)
+    - Linux "Desktop" (Distribuitions like Ubuntu, pop!OS, Fedora and others)
     - Windows System
     
     
 - 📫 How to reach me: 
     - ygor.elinaldoneresdesouza@gmail.com
     - +55 66 996923495
+    
+    
 - 😄 Pronouns: 
 
   He/him
