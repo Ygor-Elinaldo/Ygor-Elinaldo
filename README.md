@@ -22,11 +22,7 @@
 - 📫 How to reach me: 
     - ygor.elinaldoneresdesouza@gmail.com
     - +55 66 996923495
-    
-    
-- 😄 Pronouns: 
-
-  He/him
+   
 - ⚡ Personal facts: 
     - Love singing and playing on my piano.
     - Love talking with another peoples
