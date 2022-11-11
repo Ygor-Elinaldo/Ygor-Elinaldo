@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Hobby Projects:
-    - [Everything Notes - Active](https://play.google.com/store/apps/details?id=com.ryo.everynotes) released on Google Play
+    - [Everything Notes - Death](https://play.google.com/store/apps/details?id=com.ryo.everynotes) no longer available on the Play Store.
     - WebGaming (Private repository) with another partner
   
   
